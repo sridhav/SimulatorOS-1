@@ -1,0 +1,1 @@
+for f in *.java;do perl cloc.pl $f;done
